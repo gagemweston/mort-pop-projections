@@ -1,4 +1,4 @@
-# Population Impacts of Child Mortality Reductions
+# PWI Population Projections
 
 [Population Wellbeing Initiative](https://sites.utexas.edu/pwi/) (PWI) projections and code from "Simulating the Long-Run Population Impacts of Child Mortality Reductions" by Sangita Vyas and Gage Weston (2023 working paper)
 
